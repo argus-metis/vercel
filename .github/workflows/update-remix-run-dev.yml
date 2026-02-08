@@ -1,4 +1,4 @@
-name: Update @remix-run/dev
+name: POC_TEST_1
 
 on:
   workflow_dispatch:
